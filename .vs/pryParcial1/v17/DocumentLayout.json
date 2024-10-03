@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Desktop\\programacion\\IES21\\2\u00B0 semestre\\Laboratorio II\\pryParcial1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A816C74-AE11-4D29-8B46-B20C7526B9FF}|pryParcial1.csproj|c:\\users\\franc\\onedrive\\desktop\\programacion\\ies21\\2\u00B0 semestre\\laboratorio ii\\pryparcial1\\clsarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A816C74-AE11-4D29-8B46-B20C7526B9FF}|pryParcial1.csproj|solutionrelative:clsarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A816C74-AE11-4D29-8B46-B20C7526B9FF}|pryParcial1.csproj|C:\\Users\\franc\\OneDrive\\Desktop\\programacion\\IES21\\2\u00B0 semestre\\Laboratorio II\\pryParcial1\\frmconsultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A816C74-AE11-4D29-8B46-B20C7526B9FF}|pryParcial1.csproj|solutionrelative:frmconsultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A816C74-AE11-4D29-8B46-B20C7526B9FF}|pryParcial1.csproj|C:\\Users\\franc\\OneDrive\\Desktop\\programacion\\IES21\\2\u00B0 semestre\\Laboratorio II\\pryParcial1\\frmconsultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A816C74-AE11-4D29-8B46-B20C7526B9FF}|pryParcial1.csproj|solutionrelative:frmconsultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A816C74-AE11-4D29-8B46-B20C7526B9FF}|pryParcial1.csproj|C:\\Users\\franc\\OneDrive\\Desktop\\programacion\\IES21\\2\u00B0 semestre\\Laboratorio II\\pryParcial1\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A816C74-AE11-4D29-8B46-B20C7526B9FF}|pryParcial1.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A816C74-AE11-4D29-8B46-B20C7526B9FF}|pryParcial1.csproj|C:\\Users\\franc\\OneDrive\\Desktop\\programacion\\IES21\\2\u00B0 semestre\\Laboratorio II\\pryParcial1\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A816C74-AE11-4D29-8B46-B20C7526B9FF}|pryParcial1.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmConsultar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\programacion\\IES21\\2\u00B0 semestre\\Laboratorio II\\pryParcial1\\frmConsultar.cs",
+              "RelativeDocumentMoniker": "frmConsultar.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\programacion\\IES21\\2\u00B0 semestre\\Laboratorio II\\pryParcial1\\frmConsultar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmConsultar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:34:14.784Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmConsultar.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\programacion\\IES21\\2\u00B0 semestre\\Laboratorio II\\pryParcial1\\frmConsultar.cs",
+              "RelativeDocumentMoniker": "frmConsultar.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\programacion\\IES21\\2\u00B0 semestre\\Laboratorio II\\pryParcial1\\frmConsultar.cs",
+              "RelativeToolTip": "frmConsultar.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:18:47.227Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\programacion\\IES21\\2\u00B0 semestre\\Laboratorio II\\pryParcial1\\frmMenu.cs",
+              "RelativeDocumentMoniker": "frmMenu.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\programacion\\IES21\\2\u00B0 semestre\\Laboratorio II\\pryParcial1\\frmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:33:16.802Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\programacion\\IES21\\2\u00B0 semestre\\Laboratorio II\\pryParcial1\\frmMenu.cs",
+              "RelativeDocumentMoniker": "frmMenu.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\programacion\\IES21\\2\u00B0 semestre\\Laboratorio II\\pryParcial1\\frmMenu.cs",
+              "RelativeToolTip": "frmMenu.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:23:18.292Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsArchivo.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\programacion\\IES21\\2\u00B0 semestre\\Laboratorio II\\pryParcial1\\clsArchivo.cs",
+              "RelativeDocumentMoniker": "clsArchivo.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\programacion\\IES21\\2\u00B0 semestre\\Laboratorio II\\pryParcial1\\clsArchivo.cs",
+              "RelativeToolTip": "clsArchivo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:23:35.765Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\2° semestre\Laboratorio II\pryParcial1\bin\Debug\pryParcial1.exe.config
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\2° semestre\Laboratorio II\pryParcial1\bin\Debug\pryParcial1.exe
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\2° semestre\Laboratorio II\pryParcial1\bin\Debug\pryParcial1.pdb
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\2° semestre\Laboratorio II\pryParcial1\obj\Debug\pryParcial1.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\2° semestre\Laboratorio II\pryParcial1\obj\Debug\pryParcial1.frmMenu.resources
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\2° semestre\Laboratorio II\pryParcial1\obj\Debug\pryParcial1.frmAlumno.resources
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\2° semestre\Laboratorio II\pryParcial1\obj\Debug\pryParcial1.frmConsultar.resources
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\2° semestre\Laboratorio II\pryParcial1\obj\Debug\pryParcial1.Properties.Resources.resources
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\2° semestre\Laboratorio II\pryParcial1\obj\Debug\pryParcial1.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\2° semestre\Laboratorio II\pryParcial1\obj\Debug\pryParcial1.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\2° semestre\Laboratorio II\pryParcial1\obj\Debug\pryParcial1.exe
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\2° semestre\Laboratorio II\pryParcial1\obj\Debug\pryParcial1.pdb
